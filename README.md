@@ -1,4 +1,3 @@
-@[TOC]
 ## Cordova打包Vue移动端项目Android
  ### 环境要求
  >1.  Cordova 
